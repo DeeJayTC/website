@@ -268,6 +268,11 @@ export const derivativesList: Record<string, string>[] = [
     url: "https://www.lootmetaverse.club/",
   },
   {
+    name: "Loot (for Space Cowboys)",
+    description: "Space themed alternate Loot universe",
+    url: "https://www.space-loot.com/",
+  },
+  {
     name: "Loot Descriptions",
     description: "AI-based role-playing descriptions",
     url: "https://opensea.io/collection/lootdescriptions",
@@ -371,5 +376,10 @@ export const derivativesList: Record<string, string>[] = [
     name: "Treasure",
     description: "Decentralized, composable money for the metaverse",
     url: "https://opensea.io/collection/treasure-for-loot",
+  },
+  {
+    name: "Treasure (on Polygon)",
+    description: "Treasure, moved to Polygon, Decentralized, composable money for the metaverse",
+    url: "https://opensea.io/collection/treasure-polygon",
   },
 ];
